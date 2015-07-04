@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="使用 thinkPHP 和 bootstrap 管理系统">
 <meta name="author" content="">
-<title><?php echo ($meta_title); ?>|<?php echo C('WEB_SITE_TITLE');?></title>
+<title><?php echo ($meta_title); ?>|<?php echo C('WEB_SITE_TITLE');?>dfafdasf</title>
 <link rel="shortcut icon" href="/Public/favicon.ico">
 
 <!-- Bootstrap core CSS -->
